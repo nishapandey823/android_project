@@ -19,7 +19,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/button2"
-            app:layout_constraintBottom_toBottomOf="parent" android:layout_marginBottom="152dp"
+            app:layout_constraintBottom_toBottomOf="parent" android:layout_marginBottom="165dp"
             app:layout_constraintStart_toStartOf="parent" android:layout_marginStart="160dp"
-    />
+            android:onClick="toastClick"/>
 </android.support.constraint.ConstraintLayout>
